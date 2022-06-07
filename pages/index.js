@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Helloooo..! I'm Amreen Khan" />
         <p className="description">
-          Thanks for clicking the link: <code>just to track</code>
+          Thanks for clicking the link: <code><a href="https://portfolio-zeta-liard-39.vercel.app/">Click here to check my profile</a></code>
         </p>
       </main>
 
